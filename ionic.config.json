@@ -1,0 +1,7 @@
+{
+  "name": "latihanHTTP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
